@@ -1,3 +1,5 @@
+ AUTISM SPECTRUM DISORDER DETECTION USING ATTENTION BASED CNN AND ML CLASSIFIERS
+ 
  Autism spectrum disorder (ASD) is a common condition affecting how children interact and communicate. ASD can manifest in
  various ways, such as difficulty in social interactions, repetitive behaviours, and verbal and non-verbal communication challenges.
  These difficulties can significantly impact a child’s ability to form relationships, participate in everyday activities, and navigate
